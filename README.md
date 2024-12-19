@@ -13,7 +13,7 @@ With the data in hand, the next step was to identify accessibility issues within
 
   **Step 2: Preparing the Data**
 
-To keep things simple for this proof of concept, I selected a Canvas instance with limited data. I synchronized the DAP tables to my Postgres instance and wrote a quick SQL query to produce a CSV file containing the following columns: page ID, page title, course ID, teacher name, and body content. Here’s the query if you are interested. Once I had the CSV file, I was ready to dig into **Pa11y**.
+To keep things simple for this proof of concept, I selected a Canvas instance with limited data. I synchronized the DAP tables to my Postgres instance and wrote a quick SQL query to produce a CSV file containing the following columns: page ID, page title, course ID, teacher name, and body content. Once I had the CSV file, I was ready to dig into **Pa11y**.
 
   **Step 3: Running Accessibility Tests**
 
