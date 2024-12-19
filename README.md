@@ -7,7 +7,7 @@ Initially, I considered experimenting with linear regression models, but my atte
 
   **Step 1: Identifying Accessibility Issues**
 
-With the data in hand, the next step was to identify accessibility issues within the pages. I started by looking into the accessibility tool built into Canvas, but I felt there was room for more depth. Enter trusty Google! After dodging bland AI-generated responses (please bring back the old Google 😅), I stumbled upon **Pa11y**.
+With the data in hand, the next step was to identify accessibility issues within the pages. I started by looking into the accessibility tool built into Canvas, but I felt there was room for more depth. Enter trusty Google! After dodging bland AI-generated responses (please bring back the old Google 😅), I stumbled upon [Pa11y](https://github.com/pa11y/pa11y).
 
 **Pa11y** is a CLI tool that automates accessibility testing for HTML pages. By default, it adheres to WCAG 2.1 Level AAA standards—exactly the level of rigor I wanted. Time to get to work.
 
