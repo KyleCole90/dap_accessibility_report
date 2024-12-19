@@ -1,6 +1,8 @@
 # dap_accessibility_report
 Exploring Accessibility Reporting with DAP and Pa11y:
 
+*Not Instructure Supported*
+
 At Instructure, we have a company tradition called _Dim the Lights_, which allows us to recharge or work on side projects. Last year, I used this time to brainstorm an out-of-the-box use case for our **Data Access Platform (DAP)**.
 
 Initially, I considered experimenting with linear regression models, but my attention shifted to some of the common comments I’d heard about accessibility reporting in Canvas. My first instinct was to scrape data from my Canvas instance, but that approach didn’t feel right. Fortunately, DAP includes the **wiki pages table**, which already contains the HTML values of pages—no scraping required!
